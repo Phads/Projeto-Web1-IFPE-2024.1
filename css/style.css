@@ -13,3 +13,20 @@ body {
     padding: 15px;
     text-align: center;
 }
+
+.menuCabecalho,
+.logo {
+    padding: 10px; 
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 12px ;
+
+}
+
+a:hover {
+    background-color: white;
+    color: aquamarine;
+}
